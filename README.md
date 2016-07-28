@@ -3,7 +3,7 @@ Prototype of PRES+ Equivalence checkers
 
 
 
-1. FSMDEQX.zip -- the FSMD equivalence checker with which comparison has 
+1. FSMDEQX.zip -- the FSMD equivalence checker (PE AND VP BASED) with which comparison has 
                       been made,
 
 2. DCPEQXforAutomatedModels.zip -- the DCPEQX module + a front end 
