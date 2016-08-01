@@ -31,7 +31,7 @@ Prototype of PRES+ Equivalence checkers
 
 8. thesisKulwant.pdf -- M. Tech. dissertation of Kulwant Singh on Automated  model constructor (used here).
 
-9. archiveSoumyadip.zip -- All the equivalence checkers with a shell script which helps for running all the examples.
+
 
  
 ----------
