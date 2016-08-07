@@ -32,6 +32,10 @@ Prototype of PRES+ Equivalence checkers
 8. thesisKulwant.pdf -- M. Tech. dissertation of Kulwant Singh on Automated  model constructor (used here).
 
 
+9. thesisBench.zip -- Contain entire tool and examples through which one can run all thesis examples. It is also available in
+https://cse.iitkgp.ac.in/~chitta/pubs/rep/thesisBench.zip
+
+
 
  
 ----------
