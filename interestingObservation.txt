@@ -1,0 +1,9 @@
+List of the following examples:
+
+1. PATTERSON (EqChk time same for DCPEQX method; however, EqChk time differnet for SCPEQX method)
+
+2. ORS and LRU ( same EqChk time for both cases)
+
+
+   
+
