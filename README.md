@@ -35,7 +35,7 @@ Prototype of PRES+ Equivalence checkers
 9. thesisBench.zip -- Contain entire tool and examples through which one can run all thesis examples. It is also available in
 https://cse.iitkgp.ac.in/~chitta/pubs/rep/thesisBench.zip
 
-
+10. Latest version is available in : http://www.bits-pilani.ac.in/goa/ComputerScienceInformationsSystems/ComputerScienceandInformationSystems
 
  
 ----------
@@ -44,4 +44,4 @@ Steps in experimentation: Refer to the README files in items ...
 
 If you face any problem, please contact with us.
 soumyadip@cse.iitkgp.ernet.in, soumyadipb@goa.bits-pilani.ac.in
-Skype Id: Soumyadip12
+Skype Id: soumyadip12
